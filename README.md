@@ -1,4 +1,4 @@
-# SFWRENG 3XA3 Group 304
+# ScrumBot
 
 Team Name: ScrumBot
 
