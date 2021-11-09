@@ -1,8 +1,6 @@
 # ScrumBot
 
-Team Name: ScrumBot
-
-Team Members: Timothy Choy, Arkin Modi, Leon So
+Authors: Timothy Choy, Arkin Modi, Leon So
 
 This project is a remastering of a Discord meeting bot.
 
